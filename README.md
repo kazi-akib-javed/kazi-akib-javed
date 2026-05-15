@@ -2,7 +2,7 @@
 
 ### Backend-Focused Full Stack Engineer
 
-I’m a passionate software engineer with over 3 years of experience crafting clean, testable, and maintainable solutions. My expertise centers around building robust backend systems using **Node.js** and **TypeScript**, always striving to implement best software practices, solid design principles, and proven design patterns.
+I’m a passionate software engineer with over 4 years of experience crafting clean, testable, and maintainable solutions. My expertise centers around building robust backend systems using **Node.js** and **TypeScript**, always striving to implement best software practices, solid design principles, and proven design patterns.
 
 ---
 
